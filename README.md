@@ -1,7 +1,11 @@
 # Netmask Calculator
 
 Calculate the your net mask number easy with this handy web app.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built with React, with [Create React App](https://github.com/facebook/create-react-app).
+
+## Requirements
+
+- Nodejs >= 10
 
 ## Available Scripts
 
@@ -14,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     Run tests.
 
 3. `npm run build`
-   
+
     Builds the app for production to the `build` folder.
 
 4. `npm run eject`

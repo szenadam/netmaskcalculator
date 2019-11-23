@@ -4,7 +4,13 @@ import './App.scss';
 function App() {
   return (
     <div>
-      <h1>Netmas Calculator</h1>
+      <h1>Netmask Calculator</h1>
+      <div className="ip-numbers">
+        <input type="text" />
+        <input type="text" />
+        <input type="text" />
+        <input type="text" />
+      </div>
     </div>
   );
 }
